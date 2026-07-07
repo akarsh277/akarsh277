@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=700&height=60&lines=Full+Stack+Developer+%F0%9F%9A%80;FastAPI+%2B+PostgreSQL+%E2%9A%A1;Building+Productive+Applications+%F0%9F%8E%AF;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshvijjapu/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vakarsh2020@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshvijjapu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=firefox&logoColor=white)](https://akarsh277.github.io/Portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/10GiXBEp-Vz-9docadn9JVcAcPKQ19gYD/view?usp=sharing)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akarsh_vijjapu)
